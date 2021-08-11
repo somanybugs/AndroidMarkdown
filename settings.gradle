@@ -1,0 +1,5 @@
+rootProject.name = "AndroidMarkdown"
+include ':app'
+include ':AndroidMarkdown'
+include ':library:CanvasScrollView'
+project(':library:CanvasScrollView').projectDir = new File('./CanvasScrollView/CanvasScrollView')

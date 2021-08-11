@@ -1,0 +1,4 @@
+[submodule "CanvasScrollView"]
+	path = CanvasScrollView
+	url = https://github.com/somanybugs/CanvasScrollView.git
+
